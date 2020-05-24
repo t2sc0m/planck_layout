@@ -3,8 +3,8 @@
 ## Tescom's Key Layout
 ![tescom](https://en.gravatar.com/userimage/96759029/aa4308f795041de37cc2fedf0d1071ca?size=128)
 ---
-2020.05.24
-Latest : planck_rev6_00005.bin
+- Last Update : 2020.05.24
+- FileName    : planck_rev6_00005.bin
 ---
 
 ## Installation guide
