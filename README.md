@@ -3,6 +3,7 @@
 ## Tescom's Key Layout
 ![tescom](https://en.gravatar.com/userimage/96759029/aa4308f795041de37cc2fedf0d1071ca?size=128)
 ---
+2020.05.24
 Latest : planck_rev6_00005.bin
 ---
 
@@ -44,6 +45,7 @@ $ sudo make planck/rev6:default:flash
 - 키보드 입력 테스트
 ---
 
+# 00005버전 레이어 
 
 ## Layer 0
 - 일반 배열 
